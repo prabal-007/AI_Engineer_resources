@@ -1,0 +1,1 @@
+print("Let's learn LangChain from scratch!")
