@@ -15,7 +15,7 @@ messages = [
 
 # prompt_template = ChatPromptTemplate.from_template(template)
 message_template = ChatPromptTemplate.from_messages(messages)
-
+# what is it about 
 prompt = message_template.invoke({
     "role": "Job search",
     "company": "Tesla",
